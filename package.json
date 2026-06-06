@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "private": true,  
   "scripts": {
-    "build": "npx vite build",
-    "dev": "npx vite",
-    "preview": "npx vite preview"
+    "build": "node node_modules/vite/bin/vite.js build",
+    "dev": "node node_modules/vite/bin/vite.js",
+    "preview": "node node_modules/vite/bin/vite.js preview"
   },
   "dependencies": {
     "@babel/traverse": "^7.26.4",
