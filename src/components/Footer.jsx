@@ -12,7 +12,7 @@ const Footer = () => {
               <span className="text-2xl font-bold">AussieSpotless</span>
             </div>
             <p className="text-gray-400 mb-4">
-              Victoria's premier cleaning service, delivering excellence since 2013.
+              Victoria's premier cleaning service, delivering excellence since 2025.
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center hover:bg-teal-600 transition-colors">
@@ -32,8 +32,8 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li><a href="#services" className="hover:text-teal-400 transition-colors">Residential Cleaning</a></li>
               <li><a href="#services" className="hover:text-teal-400 transition-colors">Commercial Cleaning</a></li>
-              <li><a href="#services" className="hover:text-teal-400 transition-colors">Deep Cleaning</a></li>
-              <li><a href="#services" className="hover:text-teal-400 transition-colors">End of Lease</a></li>
+              {/* <li><a href="#services" className="hover:text-teal-400 transition-colors">Deep Cleaning</a></li>
+              <li><a href="#services" className="hover:text-teal-400 transition-colors">End of Lease</a></li> */}
             </ul>
           </div>
 
@@ -57,7 +57,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-slate-800 pt-8 text-center text-gray-500">
-          <p>&copy; 2025 AussieSpotless. All rights reserved. ABN: XX XXX XXX XXX</p>
+          <p>&copy; 2025 AussieSpotless. All rights reserved. ABN: 35 692 212 105</p>
         </div>
       </div>
     </footer>

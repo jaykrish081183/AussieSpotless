@@ -5,10 +5,10 @@ import { Home, Building2, Sparkles, Droplets, Wind, Trash2 } from 'lucide-react'
 const services = [
   { icon: Home, title: 'Residential Cleaning', description: 'Complete home cleaning services including kitchens, bathrooms, and living areas.' },
   { icon: Building2, title: 'Commercial Cleaning', description: 'Professional office and commercial space cleaning to maintain a pristine work environment.' },
-  { icon: Sparkles, title: 'Deep Cleaning', description: 'Intensive cleaning service that reaches every corner and surface of your property.' },
-  { icon: Droplets, title: 'Carpet & Upholstery', description: 'Specialized cleaning for carpets, rugs, and furniture using advanced techniques.' },
-  { icon: Wind, title: 'Window Cleaning', description: 'Crystal-clear windows inside and out, including frames and sills for a streak-free finish.' },
-  { icon: Trash2, title: 'End of Lease', description: 'Comprehensive cleaning to ensure you get your bond back. We follow a detailed checklist.' }
+  // { icon: Sparkles, title: 'Deep Cleaning', description: 'Intensive cleaning service that reaches every corner and surface of your property.' },
+  // { icon: Droplets, title: 'Carpet & Upholstery', description: 'Specialized cleaning for carpets, rugs, and furniture using advanced techniques.' },
+  // { icon: Wind, title: 'Window Cleaning', description: 'Crystal-clear windows inside and out, including frames and sills for a streak-free finish.' },
+  // { icon: Trash2, title: 'End of Lease', description: 'Comprehensive cleaning to ensure you get your bond back. We follow a detailed checklist.' }
 ];
 
 const Services = () => {

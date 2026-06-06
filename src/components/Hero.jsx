@@ -35,7 +35,7 @@ const Hero = () => {
             </motion.div>
 
             <h1 className="text-5xl lg:text-6xl font-extrabold leading-tight tracking-tight">
-              Sparkling Clean Spaces in
+              AussieSpotless in
               <span className="block text-teal-400 text-glow"> Victoria, Australia</span>
             </h1>
 
