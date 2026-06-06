@@ -2,11 +2,11 @@
   "name": "web-app",
   "type": "module",
   "version": "0.0.0",
-  "private": true,
+  "private": true,  
   "scripts": {
-    "dev": "vite --host :: --port 3000",
-    "build": "vite build",
-    "preview": "vite preview --host :: --port 3000"
+    "build": "npx vite build",
+    "dev": "npx vite",
+    "preview": "npx vite preview"
   },
   "dependencies": {
     "@babel/traverse": "^7.26.4",
